@@ -5,5 +5,6 @@ Simple payloads used for Raspberry Pi Pico, if some payloads aren't working just
 
 Made by: TRX-UNKNOWN
 
-Donation BTC: bc1q5wzn246v658l7pfuh4h9afpc02zfz4h85t8vps
-         TRX: TYjEA27S7ojxGGzkm3aSV4CKZQEhEjXzn3
+Donation 
+BTC: bc1q5wzn246v658l7pfuh4h9afpc02zfz4h85t8vps
+TRX: TYjEA27S7ojxGGzkm3aSV4CKZQEhEjXzn3
