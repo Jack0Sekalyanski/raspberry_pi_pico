@@ -9,7 +9,4 @@ Made by: J@ck Sekalyanski
 
 Donation 
 
-BTC: bc1q5wzn246v658l7pfuh4h9afpc02zfz4h85t8vps
-
-TRX: TK5RLPd6ADCveqwhCpdLHzVdNojoYi1idG
-
+XMR-(Monero): 4A724fxHWoA9t35owDQBukgNvmv6QAL67DMfCgRanpQrBvEZa6ttYd3KM8Z3MWXFwLPjorf8Z7rMjZ9LhLipZ6DZDkKmGYJ
